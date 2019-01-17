@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\GrandCircus\LabFive\LabFive\bin\Debug\LabFive.exe.config
+C:\Users\Administrator\source\repos\GrandCircus\LabFive\LabFive\bin\Debug\LabFive.exe
+C:\Users\Administrator\source\repos\GrandCircus\LabFive\LabFive\bin\Debug\LabFive.pdb
+C:\Users\Administrator\source\repos\GrandCircus\LabFive\LabFive\obj\Debug\LabFive.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GrandCircus\LabFive\LabFive\obj\Debug\LabFive.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GrandCircus\LabFive\LabFive\obj\Debug\LabFive.exe
+C:\Users\Administrator\source\repos\GrandCircus\LabFive\LabFive\obj\Debug\LabFive.pdb
