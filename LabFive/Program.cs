@@ -22,7 +22,7 @@ namespace LabFive
 
         private static void Factorial(int fact)
         {
-            int temp = 1;
+            long temp = 1;
             for(int i = 1; i <= fact; i++)
             {
                 temp *= i;
